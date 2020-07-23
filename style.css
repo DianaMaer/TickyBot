@@ -148,6 +148,7 @@ p{
 .features-info{
     display: flex;
     justify-content: space-between;
+    padding-bottom: 20px;
 }
 
     /*style the columns*/
