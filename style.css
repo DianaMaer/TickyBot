@@ -187,11 +187,24 @@ p{
     /*style the button*/
 .second-button{
     background-color: #40596B;
-    color: #ffffff;
+    color: #fafafa;
     margin: 85px 0;
 }
 
 /*style footer*/
 footer{
     background-color: #40596B;
+    color:#e6e6e6;
+    text-align: center;
+    padding: 15px 0;
+}
+
+footer p{
+    font-size: 13px;
+    line-height: 26px;
+    font-weight: 100;
+}
+
+footer a{
+    color:#e6e6e6;
 }
