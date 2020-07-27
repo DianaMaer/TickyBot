@@ -221,13 +221,14 @@ footer a{
 
 
 /*style back-to-top button*/
-.back-to-top{
+#back-to-top{
     width: 40px;
     background-color: #ffd05b;
     border-radius: 5px;
     padding: 8px;
     position: fixed;
     bottom: 20px;
-    right: 30px;
+    right: 15px;
     cursor: pointer;
+    display: none;
 }
