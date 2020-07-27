@@ -218,3 +218,16 @@ footer p{
 footer a{
     color:#e6e6e6;
 }
+
+
+/*style back-to-top button*/
+.back-to-top{
+    width: 40px;
+    background-color: #ffd05b;
+    border-radius: 5px;
+    padding: 8px;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    cursor: pointer;
+}
